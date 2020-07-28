@@ -1,0 +1,169 @@
+{
+  "categorias": [
+    {
+      "titulo": "Bolos",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Bolo De Chocolate Fácil e Rápido Da Cris ! ",
+          "url": "https://www.youtube.com/watch?v=qg2EqHDyJGM"
+        },
+        {
+          "titulo": "CHEESECAKE NUVEM, O MAIS FOFINHO QUE EXISTE",
+          "url": "https://www.youtube.com/watch?v=M5VLgq5vuuY"
+        },
+        {
+          "titulo": "BOLO DE CANECA DE CHOCOLATE | Temporada de Doces",
+          "url": "https://www.youtube.com/watch?v=RD2i_AtnbbM"
+        },
+        {
+          "titulo": "Massa de Baunilha Profissional - Sem batedeira! | Especial de Bolos",
+          "url": "https://www.youtube.com/watch?v=GjpxdMy2BXM"
+        },
+        {
+          "titulo": "BOLO DE CENOURA COM MUITO CHOCOLATE | BIGODE NA COZINHA",
+          "url": "https://www.youtube.com/watch?v=0yIhWoBzaj8"
+        },
+        {
+          "titulo": "Bolo de Aveia com Banana ( Sem Farinha, Sem Açúcar e Sem Leite) Só com 4 Ingredientes",
+          "url": "https://www.youtube.com/watch?v=7wJ0no6jIZ8"
+        }
+               
+      ]
+    },
+    {
+      "titulo": "Mohamad Hindi",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Canal do Mohamad",
+        "url": "https://www.youtube.com/channel/UC92stP3p40WmY-6-8X14zbQ"
+      },
+      "videos": [
+        {
+          "titulo": "MAC'N'CHEESE ou MACARRÃO COM QUEIJO | Receitas Rápidas em 15 minutos | #LIVEMOHINDI",
+          "url": "https://www.youtube.com/watch?v=MxQ0vX_ieuo"
+        },
+        {
+          "titulo": "CHURRASCO COREANO, HAMBÚRGUER FRANCÊS E HOT DOG MEXICANO EM L.A. | Viagem Califórnia | Mohamad Hindi",
+          "url": "https://www.youtube.com/watch?v=po5cLw5Bz9I"
+        },
+        {
+          "titulo": "MACARRÃO NA PANELA DE PRESSÃO, SERÁ QUE DÁ CERTO? | Receitas Internéticas | Mohamad Hindi",
+          "url": "https://www.youtube.com/watch?v=5ubPrQIn4wA"
+        },
+        {
+          "titulo": "BOLO DE CANECA DE CHOCOLATE | Temporada de Doces",
+          "url": "https://www.youtube.com/watch?v=RD2i_AtnbbM"
+        }, 
+        {
+          "titulo": "3 TIPOS DE OVO MEXIDO CREMOSO, O GUIA DEFINITIVO! | Cozinha Básica | Mohamad Hindi",
+          "url": "https://www.youtube.com/watch?v=iapaeO4ig3Y"
+        }
+      ]
+    },
+    {
+      "titulo": "Doces e Sobremesas",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "SÓ 3 INGREDIENTES - ESSA SOBREMESA É MUITO FÁCIL E NÃO VAI NO FOGO",
+          "url": "https://www.youtube.com/watch?v=4EaNP3BXQAA"
+        },
+        {
+          "titulo": "RECEITAS DE 3 MINUTOS FÁCEIS E DELÍCIAS 😋 | KIM ROSACUCA",
+          "url": "https://www.youtube.com/watch?v=BykWl12T7zo"
+        },
+        {
+          "titulo": "Doce de Leite Caseiro Com Apenas Dois Ingredientes Rápido Fácil e Muito Gostoso",
+          "url": "https://www.youtube.com/watch?v=EbLyGhaC3rQ"
+        },
+        {
+          "titulo": "PANQUECA AMERICANA SUPER FÁCIL E RÁPIDA | Menino Prendado",
+          "url": "https://www.youtube.com/watch?v=y1diZ4zsOZg"
+        }
+      ]
+    },
+    {
+      "titulo": "Dani Noce",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Canal da Dani Noce",
+        "url": "https://www.youtube.com/user/nocedanielle"
+      },
+      "videos": [
+        {
+          "titulo": "ALMOÇO VEGETARIANO FÁCIL E SAUDÁVEL | ASMR",
+          "url": "https://www.youtube.com/watch?v=vSmY2ZT6kCs"
+        },
+        {
+          "titulo": "PETIT GATEAU GIGANTE NA TRAVESSA",
+          "url": "https://www.youtube.com/watch?v=g6bnsxb4DSg"
+        },
+        {
+          "titulo": "BOLINHO DE ARROZ COM QUEIJO, CARNE E MOLHO DE TOMATE | ARANCINI",
+          "url": "https://www.youtube.com/watch?v=MiiJv3jYuXs"
+        },
+        {
+          "titulo": "EMPADÃO CREMOSO AKA COXINHA CREMOSA NA TRAVESSA",
+          "url": "https://www.youtube.com/watch?v=6adxgnVal3g"
+        }
+      ]
+    },
+    {
+      "titulo": "Receitas Salgadas",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "BOLINHO DE ARROZ COM QUEIJO, CARNE E MOLHO DE TOMATE | ARANCINI",
+          "url": "https://www.youtube.com/watch?v=MiiJv3jYuXs"
+        },
+        {
+          "titulo": "EMPADÃO CREMOSO AKA COXINHA CREMOSA NA TRAVESSA",
+          "url": "https://www.youtube.com/watch?v=6adxgnVal3g"
+        },
+        {
+          "titulo": "Melhores receitas salgadas de 2019",
+          "url": "https://www.youtube.com/watch?v=na4r2Oy9u6o"
+        },
+        {
+          "titulo": "MASSA BÁSICA PARA SALGADOS FRITOS FÁCIL E RÁPIDA | Menino Prendado",
+          "url": "https://www.youtube.com/watch?v=PPBe47LHgb0"
+        },
+        {
+          "titulo": "COMO FAZER RISOTO com IZABEL | DICAS MASTERCHEF",
+          "url": "https://www.youtube.com/watch?v=eU_mhiHAmVI"
+        }
+      ]
+    },
+    {
+      "titulo": "Dulce Delight",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Canal Dulce Delight Brasil",
+        "url": "https://www.youtube.com/user/raizabdcosta"
+      },
+      "videos": [
+        {
+          "titulo": "CHARLOTTE COM BISCOITO POCKY CASEIRO | ANOS 80 | RAIZA COSTA",
+          "url": "https://www.youtube.com/watch?v=YaYnWh-iZmc"
+        },
+        {
+          "titulo": "CHEESECAKE NUVEM, O MAIS FOFINHO QUE EXISTE",
+          "url": "https://www.youtube.com/watch?v=M5VLgq5vuuY"
+        },
+        {
+          "titulo": "COMO FAZER EXTRATO DE MENTA CASEIRO | RAIZA COSTA",
+          "url": "https://www.youtube.com/watch?v=dt3neQQD0iw"
+        },
+        {
+          "titulo": "COMO FAZER A MELHOR CAIPIRINHA DO MUNDO | GRINGOS PROVAM PELA PRIMEIRA VEZ | RAIZA COSTA",
+          "url": "https://www.youtube.com/watch?v=i94VuoKJKjw"
+        },
+        {
+          "titulo": "https://www.youtube.com/watch?v=WvONR3_wDJA",
+          "url": "LEITE CONDENSADO DE COCO VEGANO | BOLO DE AIPIM MODERNO | DRINKS AO LADO DA PONTE DO BROOKLYN"
+        }
+      ]
+    }
+  ]
+}
