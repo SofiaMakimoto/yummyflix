@@ -2,12 +2,12 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Bolos",
+      "nome": "Bolos",
       "cor": "#6BD1FF"
     },
     {
       "id": 2,
-      "titulo": "Mohamad Hindi",
+      "nome": "Mohamad Hindi",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Canal do Mohamad",
@@ -16,12 +16,12 @@
     },
     {
       "id": 3,
-      "titulo": "Doces e Sobremesas",
+      "nome": "Doces e Sobremesas",
       "cor": "#9cd33b"
     },
     {
       "id": 4,
-      "titulo": "Dani Noce",
+      "nome": "Dani Noce",
       "cor": "orange",
       "link_extra": {
           "text": "Canal da Dani Noce",
@@ -30,12 +30,12 @@
     },
     {
       "id": 5,
-      "titulo": "Receitas Salgadas",
+      "nome": "Receitas Salgadas",
       "cor": "red"
     },
     {
       "id": 6,
-      "titulo": "Dulce Delight",
+      "nome": "Dulce Delight",
       "cor": "#6b5be2",
       "link_extra": {
           "text": "Canal Dulce Delight Brasil",
@@ -47,7 +47,7 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "SEO com React",
+      "nome": "SEO com React",
       "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
     }
   ]
