@@ -25,11 +25,11 @@ function useForm(valoresIniciais) {
   function clearForm() {
     setValues(valoresIniciais);
   }
-  return (
+  return {
     values,
     handleChange,
     clearForm
-  );
+  };
 
 }
 
