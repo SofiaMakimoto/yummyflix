@@ -3,35 +3,8 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
+import useForm from '../../../hooks/useForm';
 
-function useForm(valoresIniciais) {
-  const [values, setValues] = useState(valoresIniciais);
-
-  function setValue(chave, valor) {
-    // chave: titulo, descricao, bla, bli
-    setValues({
-      ...values,
-      [chave]: valor, // titulo: 'valor'
-    })
-  }
-
-  function handleChange(infosDoEvento) {
-    setValue(
-      infosDoEvento.target.getAttribute('name'),
-      infosDoEvento.target.value
-    );
-  }
-
-  function clearForm() {
-    setValues(valoresIniciais);
-  }
-  return {
-    values,
-    handleChange,
-    clearForm
-  };
-
-}
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -44,24 +17,20 @@ function CadastroCategoria() {
 
   const [categorias, setCategorias] = useState([]);
 
-
-  
-
   // ============
 
   useEffect(() => {
-    const URL_TOP = window.location.href.includes('localhost') 
-    ? 'http://localhost:8080/categorias'
-      : 'http://yummyflix.herokuapp.com/categorias'; 
-      fetch(URL_TOP)
-       .then(async (respostaDoServer) =>{
-        if(respostaDoServer.ok) {
-          const resposta = await respostaDoServer.json();
-          setCategorias(resposta);
-          return; 
-        }
-        throw new Error('Não foi possível pegar os dados');
-       })
+    const URL_TOP = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categorias'
+      : 'https://devsoutinhoflix.herokuapp.com/categorias';
+    // E a ju ama variáveis
+    fetch(URL_TOP)
+      .then(async (respostaDoServidor) => {
+        const resposta = await respostaDoServidor.json();
+        setCategorias([
+          ...resposta,
+        ]);
+      });
     }, []);
 
   return (
@@ -148,4 +117,4 @@ function CadastroCategoria() {
   )
 }
 
-export default CadastroCategoria;
+export default CadastroCategoria
