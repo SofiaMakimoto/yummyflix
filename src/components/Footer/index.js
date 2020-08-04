@@ -14,6 +14,11 @@ function Footer() {
           Imersão React da Alura
         </a>
       </p>
+      <a href="https://github.com/SofiaMakimoto">
+        <img id="git-logo" src="https://img.icons8.com/clouds/100/000000/github.png"/>
+        <br></br>
+        Sofia Makimoto
+      </a>
     </FooterBase>
   );
 }

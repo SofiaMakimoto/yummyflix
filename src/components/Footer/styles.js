@@ -14,4 +14,7 @@ export const FooterBase = styled.footer`
   @media (max-width: 800px) {
     margin-bottom: 50px;
   }
+  #git-logo {
+    max-width: 70px
+  }
 `;
